@@ -1,10 +1,8 @@
 ==============
 CONTRIBUTORS
 ==============
-@rajaths589
-[Absolute README link](https://github.com/rajaths589)
-@ajinkya-k
-[Absolute README link](https://github.com/ajinkya-k)
+[@rajaths589](https://github.com/rajaths589)
+[@ajinkya-k](https://github.com/ajinkya-k)
 
 =====================
 SYSTEM REQUIREMENTS
